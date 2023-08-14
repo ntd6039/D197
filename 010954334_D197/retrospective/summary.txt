@@ -1,0 +1,4 @@
+Merge conflict in step E created by changing the student ID on line 93. Last Digit + 1 on branch readme and then changed back to correct student ID.
+In vision.html, Mission and Vision description is updated with new text. Comment was added using git add and git commit.
+In about.html, About Us description was updated with new text. A comment was added and committed using git add and git commit.
+In customers.html, Customers description/ flavor text was updated with new text. A comment was added and committed with git add and commit.

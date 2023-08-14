@@ -1,0 +1,77 @@
+commit 5d7b3dacfbe5b1d72875320e5e412fc94aff4b62
+Merge: 9665fd2 9698b75
+Author: ntd6039 <97009566+ntd6039@users.noreply.github.com>
+Date:   Fri Aug 11 19:00:44 2023 -0400
+
+    Resolved Merge Conflict
+
+commit 9665fd286c8e42fdf2a9c081b304e3fc1ec12968
+Author: ntd6039 <97009566+ntd6039@users.noreply.github.com>
+Date:   Fri Aug 11 18:58:50 2023 -0400
+
+    Kept student ID same and added git version
+
+commit 9698b759ad98ee59a0116d2e99aa48e063479d59
+Author: ntd6039 <97009566+ntd6039@users.noreply.github.com>
+Date:   Fri Aug 11 18:56:00 2023 -0400
+
+    Added Student ID error and git version
+
+commit 9c63966c894f2790aafe5a5587b07ad0d297afc4
+Author: ntd6039 <97009566+ntd6039@users.noreply.github.com>
+Date:   Fri Aug 11 18:36:08 2023 -0400
+
+    Created readme branch and added student ID to the README.md file.
+
+commit de150ece39240b9ad7ffd22451b92eb28a0522aa
+Author: ntd6039 <97009566+ntd6039@users.noreply.github.com>
+Date:   Fri Aug 11 18:31:32 2023 -0400
+
+    Edited Customers flavor text
+
+commit 73402e2a8f4901e6ba5218e5c69f94635a73aaf5
+Author: ntd6039 <97009566+ntd6039@users.noreply.github.com>
+Date:   Fri Aug 11 18:29:42 2023 -0400
+
+    Edited About Us flavor text
+
+commit f092c5cd2b2a65eef449dee4bb64d798f647042f
+Author: ntd6039 <97009566+ntd6039@users.noreply.github.com>
+Date:   Fri Aug 11 18:19:05 2023 -0400
+
+    Edited vision statement.
+
+commit ec8c2e9cca38811b1222854a81146451de5321cb
+Author: Nghia Duong <nduon10@wgu.edu>
+Date:   Fri Aug 11 21:55:07 2023 +0000
+
+    Update 22 files
+    
+    - /WGU-Hub/team.html
+    - /WGU-Hub/index.html
+    - /WGU-Hub/.DS_Store
+    - /WGU-Hub/about.html
+    - /WGU-Hub/contact.html
+    - /WGU-Hub/customers.html
+    - /WGU-Hub/vision.html
+    - /WGU-Hub/services.html
+    - /WGU-Hub/css/style.css
+    - /WGU-Hub/images/web-design.png
+    - /WGU-Hub/images/mission.png
+    - /WGU-Hub/images/vision.png
+    - /WGU-Hub/images/ecommerce.png
+    - /WGU-Hub/images/vision1.png
+    - /WGU-Hub/images/seo.png
+    - /WGU-Hub/images/customer.png
+    - /WGU-Hub/images/about-04.png
+    - /WGU-Hub/images/about-03.png
+    - /WGU-Hub/images/about-01.png
+    - /WGU-Hub/images/about-02.png
+    - /WGU-Hub/images/responsive.png
+    - /WGU-Hub/js/script.js
+
+commit 3d19c8aab8f433422442e8ebfe52d531a3f00b69
+Author: Nghia Duong <nduon10@wgu.edu>
+Date:   Fri Aug 11 21:50:15 2023 +0000
+
+    Initial commit
